@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+   max-width:1140px; 
+   margin: auto;
+      display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: orangered; 
+    margin-top: 20px;
+
+}
+.icon{
+    font-size: 2rem;
+    color: purple;
+}
+.purple{
+    color: blueviolet;
+}
